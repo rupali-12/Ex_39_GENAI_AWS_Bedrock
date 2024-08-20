@@ -6,4 +6,4 @@
 
 # Deployement Link
 
-[DEPLOYED_LINK]()
+[DEPLOYED_LINK](https://ex39genaiawsbedrock-n5ucfjahsvrxqu9zzjlrou.streamlit.app/)
